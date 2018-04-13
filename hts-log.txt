@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Apr 2018 13:42:01 at http://chestnutfeedery.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://chestnutfeedery.com/ -O1 "C:\My Web Sites\ChestnutFeedery" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:48:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 3109039 got 2151819): chestnutfeedery.com/wp-content/uploads/2017/04/IMG_20170414_093022883.jpg
+13:49:14	Error: 	"Method Not Allowed" (405) at link chestnutfeedery.com/xmlrpc.php (from chestnutfeedery.com/)
+13:50:59	Warning: 	Retry after error -4 (Incorrect length (2151819 Bytes, 3109039 expected)) at link chestnutfeedery.com/wp-content/uploads/2017/04/IMG_20170414_093022883.jpg (from chestnutfeedery.com/)
+13:51:39	Warning: 	Moved Permanently for chestnutfeedery.com/?p=17
+13:51:39	Warning: 	File has moved from chestnutfeedery.com/?p=17 to http://chestnutfeedery.com/about-us/
+13:51:39	Warning: 	Moved Permanently for chestnutfeedery.com/?p=23
+13:51:39	Warning: 	File has moved from chestnutfeedery.com/?p=23 to http://chestnutfeedery.com/history/
+13:51:39	Warning: 	Moved Permanently for chestnutfeedery.com/?p=13
+13:51:39	Warning: 	File has moved from chestnutfeedery.com/?p=13 to http://chestnutfeedery.com/horse/
+13:51:39	Warning: 	Moved Permanently for chestnutfeedery.com/?p=26
+13:51:39	Warning: 	File has moved from chestnutfeedery.com/?p=26 to http://chestnutfeedery.com/hours/
+13:51:39	Warning: 	Moved Permanently for chestnutfeedery.com/?p=11
+13:51:39	Warning: 	File has moved from chestnutfeedery.com/?p=11 to http://chestnutfeedery.com/small-stock/
+13:51:44	Warning: 	Moved Permanently for chestnutfeedery.com/?p=108
+13:51:44	Warning: 	File has moved from chestnutfeedery.com/?p=108 to http://chestnutfeedery.com/2018/02/21/barred-rock-pullet-chicks-are-in/
+13:51:44	Warning: 	Moved Permanently for chestnutfeedery.com/?p=99
+13:51:44	Warning: 	File has moved from chestnutfeedery.com/?p=99 to http://chestnutfeedery.com/2017/11/25/kenny-o-dog-food/
+13:51:44	Warning: 	Moved Permanently for chestnutfeedery.com/?p=86
+13:51:44	Warning: 	File has moved from chestnutfeedery.com/?p=86 to http://chestnutfeedery.com/2017/04/21/nutri-source-drops-chewy-com/
+13:51:44	Warning: 	Moved Permanently for chestnutfeedery.com/?p=82
+13:51:44	Warning: 	File has moved from chestnutfeedery.com/?p=82 to http://chestnutfeedery.com/2017/04/14/pre-order-your-production-red-pullets/
+13:51:44	Warning: 	Moved Permanently for chestnutfeedery.com/?p=80
+13:51:44	Warning: 	File has moved from chestnutfeedery.com/?p=80 to http://chestnutfeedery.com/2017/04/14/turkey-poults-have-arrived/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=74
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=74 to http://chestnutfeedery.com/2017/04/04/sale-on-20-gallon-long-aquariums/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=70
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=70 to http://chestnutfeedery.com/2017/02/07/world-record-bird/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=64
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=64 to http://chestnutfeedery.com/2016/06/28/july-pullets-are-ready-for-pre-order/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=60
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=60 to http://chestnutfeedery.com/2016/05/23/most-common-phrase/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=56
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=56 to http://chestnutfeedery.com/2016/04/19/japanese-trap-door-snails/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=53
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=53 to http://chestnutfeedery.com/2016/04/15/koi-have-arrived/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=47
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=47 to http://chestnutfeedery.com/2016/03/17/seresto-collars-are-in/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=44
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=44 to http://chestnutfeedery.com/2016/02/08/price-list-for-exotics-282016/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=40
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=40 to http://chestnutfeedery.com/2016/02/02/twosie-tuesday/
+13:51:47	Warning: 	Moved Permanently for chestnutfeedery.com/?p=5
+13:51:47	Warning: 	File has moved from chestnutfeedery.com/?p=5 to http://chestnutfeedery.com/2015/12/04/the-chestnut-feedery/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 46 seconds : 134 links scanned, 111 files written (13932926 bytes overall) [13630154 bytes received at 23259 bytes/sec], 579402 bytes transferred using HTTP compression in 55 files, ratio 36%, 4.3 requests per connection
+(1 errors, 42 warnings, 0 messages)
